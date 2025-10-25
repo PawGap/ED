@@ -1,1 +1,2 @@
-joł joł
+teścik czy działa
+
